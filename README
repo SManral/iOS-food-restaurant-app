@@ -3,7 +3,25 @@ Sasa Cocic-Banjanac
 Zheng Fang
 
 
-Readme!
+A multi-purpose food application that allows users to order food from producers(chefs,restaurants etc.). 
+The app also allows users to search for food recipes, restaurants based on user's needs and information 
+about various alcoholic drinks. The app also features a recommendation system that recommends users to 
+order food from the places they have previously ordered food from and suggests similar places to order 
+food from(based on when and where they ordered the food from). 
+
+Languge/Libraries/framework/Api used:
+Swift
+Firebase
+Braintree (for payments)
+Javascript
+Node.js
+Express.js
+AngularJS
+MongoDB
+Yummly (food api)
+Alamofire
+SwiftyJSON
+Google Maps api
 
 run npm install for node_modules to folder to be created
 run npm start to start the server
