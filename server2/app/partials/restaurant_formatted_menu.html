@@ -1,0 +1,47 @@
+<div class="bgCover">
+
+       <h1 align="center" class="title">{{restuarantInfo.name}}</h1>
+   
+</div>
+<div class="panel panel-defaut panelInfo" style="width:100%;">
+	<div class="form-group">
+			<label>email:</label>
+			{{restuarantInfo.email}}<br><br>
+			<label>phone:</label>
+			{{restuarantInfo.phone}}<br><br>
+			<label style="display: inline">address: </label>
+            {{restuarantInfo.street}},<br><span style="margin-left: 80px;display: block;
+">{{restuarantInfo.city}},<br>{{restuarantInfo.state}}
+            </span>
+
+	       </div>
+	</div>
+
+	
+		</div>
+        <div class="" style="height 90%;"><h2 align="center">{{restuarantInfo.name}} Food Menu</h2></div>
+
+<div class="panel panel-default" style="size:100%;">
+    <table class="table">
+        <tr class="header">
+            
+            <th>Food Item Name</th>
+            <th>Food Type</th>
+            <th>Cuisine</th>
+            <th>Food Description</th>
+            <th>Serving Duration</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th></th>
+        </tr>
+        <tr ng:repeat="item in menusRestInfos">
+            <td><strong>{{item.itemName}}</strong></td>           
+            <td><strong>{{item.subType}}</strong></td>
+            <td><strong>{{item.cuisine}}</strong></td>
+            <td><strong>{{item.description}}</strong></td>
+            <td><strong>{{item.duration}}</strong></td>
+            <td><strong>{{item.quantity}}</strong><br/><strong>{{item.qtyUnit}}</strong></td>
+            <td><strong>${{item.cost}}</strong></td>
+            <td><input type="button" class="btn btn-sm btn-danger" ng-if="user.type=='restaurant' " class="removeMenuItem(item._id)" value="X" ng-click="removeMenuItem(item._id)"/></td>
+        </tr>
+</div>

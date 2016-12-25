@@ -1,0 +1,46 @@
+<div class="loginBg">
+    <div class="container">
+        <div class="pageHeader text-center"> <h1>Welcome to Paladar {{title}}</h1> </div>
+    <div class="panel loginFormPanel" >
+    <div class="pageHeader text-center" ><h1>Login or Signup</h1></div>
+    <form name="form"  role="form" novalidate>   
+
+    <div class="formCred form-group" ng-class="{'has-error': form.username.$invalid && !form.username.$pristine}">
+    
+        <label for="username">Username</label><br>
+        <input type="text" name="username" id="username" class="formCred form-control" ng-model="user.username" required ng-change="onlyU()" />
+        <p ng-show="form.username.$invalid && !form.username.$pristine" class="help-block">Username is required.</p>
+    </div><br>
+    <div class="formCred form-group" ng-class="{'has-error': form.password.$invalid && !form.password.$pristine}">
+        <label for="password">Password</label><br>
+        <input type="password" name="password" id="password" class="formCred form-control" ng-model="user.password" required />
+        <p ng-show="form.password.$dirty && form.password.$error.required" class="help-block">Password is required.</p>
+    </div><br>
+    <div class="submit">
+        
+        <button type="submit" ng-click="loginRest(form)" ng-disabled="form.$invalid" class="submitButton btn btn-default" >Login as restaurant</button>
+    </div>
+    <div class="alert alert-danger" ng-show="callback != '' ">
+        <strong>{{callback}}</strong>
+    </div>
+</form>
+<div>
+       
+        <a href="#/restaurant_signup"><button type="button" class="signupAsRestaurant btn btn-default" >Sign up as Restaurant</button></a>
+    </div> 
+</div>
+
+<style>
+button:disabled {
+    background-color: #d3d3d3;
+    cursor: not-allowed;
+}
+.container {
+    max-width: 500px;
+    max-height: 100px;
+    margin-top: 10px;
+}
+
+</style>
+</div>
+</div>

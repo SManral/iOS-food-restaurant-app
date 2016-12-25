@@ -1,0 +1,474 @@
+
+/* Class = "UIButton"; normalTitle = "Beers of this Style"; ObjectID = "0ri-xv-iGL"; */
+"0ri-xv-iGL.normalTitle" = "Beers of this Style";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "11o-CA-ATr"; */
+"11o-CA-ATr.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "Pay and Attend"; ObjectID = "13k-AU-1bj"; */
+"13k-AU-1bj.normalTitle" = "Pay and Attend";
+
+/* Class = "UIButton"; normalTitle = "Return Home"; ObjectID = "2Is-lK-8Ex"; */
+"2Is-lK-8Ex.normalTitle" = "Return Home";
+
+/* Class = "UINavigationItem"; title = "Pale Lagers"; ObjectID = "2V4-J8-qfD"; */
+"2V4-J8-qfD.title" = "Pale Lagers";
+
+/* Class = "UIButton"; normalTitle = "Progressive Dinner"; ObjectID = "3ue-3g-hXS"; */
+"3ue-3g-hXS.normalTitle" = "Progressive Dinner";
+
+/* Class = "UIButton"; normalTitle = "SEARCH"; ObjectID = "5PF-Or-umr"; */
+"5PF-Or-umr.normalTitle" = "SEARCH";
+
+/* Class = "UILabel"; text = "Items picked"; ObjectID = "5T3-AW-vgO"; */
+"5T3-AW-vgO.text" = "Items picked";
+
+/* Class = "UITextField"; placeholder = "Street address"; ObjectID = "5UB-fT-CbI"; */
+"5UB-fT-CbI.placeholder" = "Street address";
+
+/* Class = "UIButton"; normalTitle = "pick"; ObjectID = "68B-fT-orG"; */
+"68B-fT-orG.normalTitle" = "pick";
+
+/* Class = "UINavigationItem"; title = "Brown Ales"; ObjectID = "6b4-dI-xTt"; */
+"6b4-dI-xTt.title" = "Brown Ales";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6u8-zC-WSK"; */
+"6u8-zC-WSK.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "78X-gv-SYo"; */
+"78X-gv-SYo.text" = "Title";
+
+/* Class = "UITextField"; placeholder = "Add Title"; ObjectID = "7Sg-9a-L0v"; */
+"7Sg-9a-L0v.placeholder" = "Add Title";
+
+/* Class = "UITextField"; placeholder = "State"; ObjectID = "7XE-OX-wVW"; */
+"7XE-OX-wVW.placeholder" = "State";
+
+/* Class = "UIBarButtonItem"; title = "<"; ObjectID = "8HK-3M-wCh"; */
+"8HK-3M-wCh.title" = "<";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "8iJ-H1-mnE"; */
+"8iJ-H1-mnE.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Places"; ObjectID = "8mB-BB-MZ3"; */
+"8mB-BB-MZ3.normalTitle" = "Places";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "9rV-kw-bcl"; */
+"9rV-kw-bcl.normalTitle" = "Sign In";
+
+/* Class = "UIButton"; normalTitle = "Add meal to selected row"; ObjectID = "AHk-q3-Rmk"; */
+"AHk-q3-Rmk.normalTitle" = "Add meal to selected row";
+
+/* Class = "UIButton"; normalTitle = "Styles of Beer"; ObjectID = "B0B-6O-6LL"; */
+"B0B-6O-6LL.normalTitle" = "Styles of Beer";
+
+/* Class = "UIButton"; normalTitle = "Share On Facebook"; ObjectID = "BTj-Rk-fBc"; */
+"BTj-Rk-fBc.normalTitle" = "Share On Facebook";
+
+/* Class = "UIButton"; normalTitle = "Pay!"; ObjectID = "Biw-12-rdb"; */
+"Biw-12-rdb.normalTitle" = "Pay!";
+
+/* Class = "UIButton"; normalTitle = "Create"; ObjectID = "CGJ-9n-bH4"; */
+"CGJ-9n-bH4.normalTitle" = "Create";
+
+/* Class = "UINavigationItem"; title = "Stouts & Porters"; ObjectID = "Co5-MR-Vq6"; */
+"Co5-MR-Vq6.title" = "Stouts & Porters";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "D2U-nB-Wue"; */
+"D2U-nB-Wue.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "CheckOut"; ObjectID = "DAb-vD-GRG"; */
+"DAb-vD-GRG.normalTitle" = "CheckOut";
+
+/* Class = "UILabel"; text = "FILTER YOUR SEARCH"; ObjectID = "DKq-D8-mY1"; */
+"DKq-D8-mY1.text" = "FILTER YOUR SEARCH";
+
+/* Class = "UILabel"; text = "Liquid Options"; ObjectID = "DXU-Lz-gGQ"; */
+"DXU-Lz-gGQ.text" = "Liquid Options";
+
+/* Class = "UIButton"; normalTitle = "Create Dinner Party"; ObjectID = "EIC-GR-GZW"; */
+"EIC-GR-GZW.normalTitle" = "Create Dinner Party";
+
+/* Class = "UIButton"; normalTitle = "Pick"; ObjectID = "EM6-Ob-7Vw"; */
+"EM6-Ob-7Vw.normalTitle" = "Pick";
+
+/* Class = "UILabel"; text = "The menu that will be picked or created"; ObjectID = "EZ3-K3-tPE"; */
+"EZ3-K3-tPE.text" = "The menu that will be picked or created";
+
+/* Class = "UILabel"; text = "Cooking Time"; ObjectID = "G55-Kb-3BU"; */
+"G55-Kb-3BU.text" = "Cooking Time";
+
+/* Class = "UIButton"; normalTitle = "Make Payment"; ObjectID = "H87-rP-MzZ"; */
+"H87-rP-MzZ.normalTitle" = "Make Payment";
+
+/* Class = "UIButton"; normalTitle = "User"; ObjectID = "IHJ-P1-qfN"; */
+"IHJ-P1-qfN.normalTitle" = "User";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "IO8-CN-RnZ"; */
+"IO8-CN-RnZ.text" = "Profile";
+
+/* Class = "UINavigationItem"; title = "Styles Of Beer"; ObjectID = "IeQ-e8-Pmx"; */
+"IeQ-e8-Pmx.title" = "Styles Of Beer";
+
+/* Class = "UILabel"; text = "Select a category"; ObjectID = "JFM-Gx-Jmt"; */
+"JFM-Gx-Jmt.text" = "Select a category";
+
+/* Class = "UIBarButtonItem"; title = "<"; ObjectID = "JGM-4F-hFp"; */
+"JGM-4F-hFp.title" = "<";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "JgR-A5-g93"; */
+"JgR-A5-g93.normalTitle" = "Add";
+
+/* Class = "UIButton"; normalTitle = "Dinner Party/Dine out"; ObjectID = "JnN-Oe-Mwr"; */
+"JnN-Oe-Mwr.normalTitle" = "Dinner Party/Dine out";
+
+/* Class = "UIBarButtonItem"; title = "<"; ObjectID = "Jnc-Iq-cst"; */
+"Jnc-Iq-cst.title" = "<";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "Jpc-SX-Szf"; */
+"Jpc-SX-Szf.normalTitle" = "Add";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "Kqm-C9-RK2"; */
+"Kqm-C9-RK2.text" = "Subtitle";
+
+/* Class = "UIButton"; normalTitle = "pick avatar and write description"; ObjectID = "Ku1-Ek-WoS"; */
+"Ku1-Ek-WoS.normalTitle" = "pick avatar and write description";
+
+/* Class = "UILabel"; text = "Time to cook"; ObjectID = "LRO-lh-bS6"; */
+"LRO-lh-bS6.text" = "Time to cook";
+
+/* Class = "UINavigationItem"; title = "Wheat Beers"; ObjectID = "Lt1-8C-M3w"; */
+"Lt1-8C-M3w.title" = "Wheat Beers";
+
+/* Class = "UITextField"; placeholder = "Zip code"; ObjectID = "LuV-DO-c1x"; */
+"LuV-DO-c1x.placeholder" = "Zip code";
+
+/* Class = "UILabel"; text = "Picked"; ObjectID = "M8x-64-gtX"; */
+"M8x-64-gtX.text" = "Picked";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "MS1-Vs-Leu"; */
+"MS1-Vs-Leu.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "SEARCH"; ObjectID = "MbC-LF-7Xg"; */
+"MbC-LF-7Xg.normalTitle" = "SEARCH";
+
+/* Class = "UIButton"; normalTitle = "Profile"; ObjectID = "NOc-qn-Smv"; */
+"NOc-qn-Smv.normalTitle" = "Profile";
+
+/* Class = "UILabel"; text = "Dinner Party Name"; ObjectID = "Nqs-FI-0Zb"; */
+"Nqs-FI-0Zb.text" = "Dinner Party Name";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "OD6-zS-dHc"; */
+"OD6-zS-dHc.placeholder" = "Email";
+
+/* Class = "UIBarButtonItem"; title = "<"; ObjectID = "OPE-6h-HbS"; */
+"OPE-6h-HbS.title" = "<";
+
+/* Class = "UITextField"; placeholder = "Add meal to "; ObjectID = "Ox4-uk-R8M"; */
+"Ox4-uk-R8M.placeholder" = "Add meal to ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PB0-R5-oQ2"; */
+"PB0-R5-oQ2.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Add new section and meal"; ObjectID = "R4J-Xw-UVx"; */
+"R4J-Xw-UVx.normalTitle" = "Add new section and meal";
+
+/* Class = "UIButton"; normalTitle = "Pick Menu"; ObjectID = "RIl-kJ-cRu"; */
+"RIl-kJ-cRu.normalTitle" = "Pick Menu";
+
+/* Class = "UIButton"; normalTitle = "Beers of this Style"; ObjectID = "S3M-qq-Baq"; */
+"S3M-qq-Baq.normalTitle" = "Beers of this Style";
+
+/* Class = "UIButton"; normalTitle = "Beers of this Style"; ObjectID = "T4f-fm-31A"; */
+"T4f-fm-31A.normalTitle" = "Beers of this Style";
+
+/* Class = "UIButton"; normalTitle = "   RESTAURANT"; ObjectID = "TFt-QJ-clh"; */
+"TFt-QJ-clh.normalTitle" = "   RESTAURANT";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "U9i-Yk-eR7"; */
+"U9i-Yk-eR7.text" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Create"; ObjectID = "UU8-XP-uWD"; */
+"UU8-XP-uWD.normalTitle" = "Create";
+
+/* Class = "UILabel"; text = "Person Name"; ObjectID = "UvH-ho-OrS"; */
+"UvH-ho-OrS.text" = "Person Name";
+
+/* Class = "UILabel"; text = "Body"; ObjectID = "VGV-gl-Oif"; */
+"VGV-gl-Oif.text" = "Body";
+
+/* Class = "UILabel"; text = "Type of Food"; ObjectID = "ViX-rg-u2c"; */
+"ViX-rg-u2c.text" = "Type of Food";
+
+/* Class = "UITextField"; placeholder = "Category"; ObjectID = "WdL-2K-OxD"; */
+"WdL-2K-OxD.placeholder" = "Category";
+
+/* Class = "UIButton"; normalTitle = "Beers of this Style"; ObjectID = "WeT-vi-dkt"; */
+"WeT-vi-dkt.normalTitle" = "Beers of this Style";
+
+/* Class = "UILabel"; text = "Select sub-category"; ObjectID = "X2B-uL-5ba"; */
+"X2B-uL-5ba.text" = "Select sub-category";
+
+/* Class = "UIButton"; normalTitle = "  RECIPES"; ObjectID = "XCR-kp-5eh"; */
+"XCR-kp-5eh.normalTitle" = "  RECIPES";
+
+/* Class = "UILabel"; text = "                   Label"; ObjectID = "XD4-Ua-kIG"; */
+"XD4-Ua-kIG.text" = "                   Label";
+
+/* Class = "UIButton"; normalTitle = "Dinner Party"; ObjectID = "Ykb-ax-K6n"; */
+"Ykb-ax-K6n.normalTitle" = "Dinner Party";
+
+/* Class = "UIButton"; normalTitle = "View Comments"; ObjectID = "Z5O-oC-iTS"; */
+"Z5O-oC-iTS.normalTitle" = "View Comments";
+
+/* Class = "UINavigationItem"; title = "Golden Ales"; ObjectID = "ZEp-No-X28"; */
+"ZEp-No-X28.title" = "Golden Ales";
+
+/* Class = "UIBarButtonItem"; title = "<"; ObjectID = "Zmc-NV-fKL"; */
+"Zmc-NV-fKL.title" = "<";
+
+/* Class = "UINavigationItem"; title = "Amber Ales"; ObjectID = "aU6-i9-OKa"; */
+"aU6-i9-OKa.title" = "Amber Ales";
+
+/* Class = "UILabel"; text = "Paladar"; ObjectID = "aUc-kn-Mwl"; */
+"aUc-kn-Mwl.text" = "Paladar";
+
+/* Class = "UIButton"; normalTitle = "Chef"; ObjectID = "anb-61-hFb"; */
+"anb-61-hFb.normalTitle" = "Chef";
+
+/* Class = "UINavigationItem"; title = "IPAs"; ObjectID = "ayx-fg-HxU"; */
+"ayx-fg-HxU.title" = "IPAs";
+
+/* Class = "UIBarButtonItem"; title = "<"; ObjectID = "bBU-gN-lXC"; */
+"bBU-gN-lXC.title" = "<";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bbW-zl-Z5b"; */
+"bbW-zl-Z5b.text" = "Label";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "bbx-GH-r7f"; */
+"bbx-GH-r7f.text" = "Total";
+
+/* Class = "UILabel"; text = "Paladar"; ObjectID = "bcV-Vd-j6w"; */
+"bcV-Vd-j6w.text" = "Paladar";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "bj5-hq-ok6"; */
+"bj5-hq-ok6.text" = "Subtitle";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "brA-ej-gcT"; */
+"brA-ej-gcT.title" = "Back";
+
+/* Class = "UIButton"; normalTitle = "              Search By Ingridients "; ObjectID = "c7C-CJ-8n9"; */
+"c7C-CJ-8n9.normalTitle" = "              Search By Ingridients ";
+
+/* Class = "UITextField"; placeholder = "Phone number"; ObjectID = "cTg-ur-LpS"; */
+"cTg-ur-LpS.placeholder" = "Phone number";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "dBC-3f-shw"; */
+"dBC-3f-shw.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Search Recipes"; ObjectID = "dtw-hs-43W"; */
+"dtw-hs-43W.placeholder" = "Search Recipes";
+
+/* Class = "UIButton"; normalTitle = "Create New Menu"; ObjectID = "e5M-XI-SnF"; */
+"e5M-XI-SnF.normalTitle" = "Create New Menu";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "eQE-1Y-dJB"; */
+"eQE-1Y-dJB.text" = "Location";
+
+/* Class = "UIBarButtonItem"; title = "<"; ObjectID = "ebM-iu-vjs"; */
+"ebM-iu-vjs.title" = "<";
+
+/* Class = "UILabel"; text = "Add Ingrediants"; ObjectID = "el0-GI-GSs"; */
+"el0-GI-GSs.text" = "Add Ingrediants";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "em4-Wu-zft"; */
+"em4-Wu-zft.text" = "Date";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "esA-j9-gd6"; */
+"esA-j9-gd6.text" = "Title";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "fJi-Gh-z7B"; */
+"fJi-Gh-z7B.text" = "Username";
+
+/* Class = "UIButton"; normalTitle = "Food"; ObjectID = "fyR-11-9ou"; */
+"fyR-11-9ou.normalTitle" = "Food";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "g2p-eM-ta2"; */
+"g2p-eM-ta2.text" = "Logout";
+
+/* Class = "UIButton"; normalTitle = "         Search By Cuisine"; ObjectID = "g4Q-BY-yc4"; */
+"g4Q-BY-yc4.normalTitle" = "         Search By Cuisine";
+
+/* Class = "UILabel"; text = "label"; ObjectID = "g90-Op-F4a"; */
+"g90-Op-F4a.text" = "label";
+
+/* Class = "UIButton"; normalTitle = "Order Food/Dine In"; ObjectID = "hBT-bQ-ZD5"; */
+"hBT-bQ-ZD5.normalTitle" = "Order Food/Dine In";
+
+/* Class = "UIButton"; normalTitle = "Remove"; ObjectID = "hLQ-DJ-Q7D"; */
+"hLQ-DJ-Q7D.normalTitle" = "Remove";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "hUM-8c-See"; */
+"hUM-8c-See.text" = "Home";
+
+/* Class = "UIBarButtonItem"; title = "Search"; ObjectID = "i0y-BF-XPQ"; */
+"i0y-BF-XPQ.title" = "Search";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "ifU-Lk-Rrk"; */
+"ifU-Lk-Rrk.normalTitle" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Beers of this Style"; ObjectID = "jRb-6v-n73"; */
+"jRb-6v-n73.normalTitle" = "Beers of this Style";
+
+/* Class = "UIButton"; normalTitle = "Create"; ObjectID = "k2M-F5-Rek"; */
+"k2M-F5-Rek.normalTitle" = "Create";
+
+/* Class = "UINavigationItem"; title = "Paladar Dashboard"; ObjectID = "kEn-rI-07a"; */
+"kEn-rI-07a.title" = "Paladar Dashboard";
+
+/* Class = "UILabel"; text = "Calories"; ObjectID = "kKl-AS-5Jq"; */
+"kKl-AS-5Jq.text" = "Calories";
+
+/* Class = "UILabel"; text = "Order"; ObjectID = "kQN-bG-INi"; */
+"kQN-bG-INi.text" = "Order";
+
+/* Class = "UIBarButtonItem"; title = "<"; ObjectID = "kcb-7P-hEH"; */
+"kcb-7P-hEH.title" = "<";
+
+/* Class = "UIButton"; normalTitle = "Pick"; ObjectID = "l3D-UP-ag2"; */
+"l3D-UP-ag2.normalTitle" = "Pick";
+
+/* Class = "UIButton"; normalTitle = "Polls"; ObjectID = "lMr-Vb-bBB"; */
+"lMr-Vb-bBB.normalTitle" = "Polls";
+
+/* Class = "UIBarButtonItem"; title = "View Ingredients"; ObjectID = "lQr-sn-wfB"; */
+"lQr-sn-wfB.title" = "View Ingredients";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "ma7-FX-dMN"; */
+"ma7-FX-dMN.text" = "Title";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "mdm-J3-4aU"; */
+"mdm-J3-4aU.text" = "Price";
+
+/* Class = "UIButton"; normalTitle = "Beers of this Style"; ObjectID = "mgT-AM-skP"; */
+"mgT-AM-skP.normalTitle" = "Beers of this Style";
+
+/* Class = "UIButton"; normalTitle = "View All"; ObjectID = "mpk-Mk-jlm"; */
+"mpk-Mk-jlm.normalTitle" = "View All";
+
+/* Class = "UILabel"; text = "Enter a cuisine "; ObjectID = "mtH-HC-4oi"; */
+"mtH-HC-4oi.text" = "Enter a cuisine ";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "n5Z-a4-fCj"; */
+"n5Z-a4-fCj.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "    DECISIONS"; ObjectID = "nNk-6h-B7C"; */
+"nNk-6h-B7C.normalTitle" = "    DECISIONS";
+
+/* Class = "UIBarButtonItem"; title = "View Recipe"; ObjectID = "nRN-VI-wRX"; */
+"nRN-VI-wRX.title" = "View Recipe";
+
+/* Class = "UIButton"; normalTitle = "Beers of this Style"; ObjectID = "ncV-WK-nSF"; */
+"ncV-WK-nSF.normalTitle" = "Beers of this Style";
+
+/* Class = "UILabel"; text = "INGREDIENTS"; ObjectID = "njJ-Gq-vFk"; */
+"njJ-Gq-vFk.text" = "INGREDIENTS";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "nz8-gZ-19m"; */
+"nz8-gZ-19m.text" = "Title";
+
+/* Class = "UIBarButtonItem"; title = "<"; ObjectID = "oAI-d2-0ad"; */
+"oAI-d2-0ad.title" = "<";
+
+/* Class = "UIButton"; normalTitle = "Beers of this Style"; ObjectID = "oN4-RN-N4q"; */
+"oN4-RN-N4q.normalTitle" = "Beers of this Style";
+
+/* Class = "UIButton"; normalTitle = "Beers of this Style"; ObjectID = "oZU-2h-Y43"; */
+"oZU-2h-Y43.normalTitle" = "Beers of this Style";
+
+/* Class = "UILabel"; text = "Food Recipes "; ObjectID = "okn-xU-CeU"; */
+"okn-xU-CeU.text" = "Food Recipes ";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "pQp-Ku-nEZ"; */
+"pQp-Ku-nEZ.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Delivery"; ObjectID = "pr1-Up-ooN"; */
+"pr1-Up-ooN.normalTitle" = "Delivery";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "qec-S1-w4o"; */
+"qec-S1-w4o.text" = "Title";
+
+/* Class = "UILabel"; text = "Pay"; ObjectID = "qkf-ZJ-App"; */
+"qkf-ZJ-App.text" = "Pay";
+
+/* Class = "UIBarButtonItem"; title = "<"; ObjectID = "qob-HB-T0s"; */
+"qob-HB-T0s.title" = "<";
+
+/* Class = "UINavigationItem"; title = "Pilsners"; ObjectID = "qwz-58-nyJ"; */
+"qwz-58-nyJ.title" = "Pilsners";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "r0a-3Z-1Jy"; */
+"r0a-3Z-1Jy.placeholder" = "Username";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "rkn-4s-GAK"; */
+"rkn-4s-GAK.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Bio/What I like to cook"; ObjectID = "s41-6f-58Y"; */
+"s41-6f-58Y.text" = "Bio/What I like to cook";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "sB4-u4-Dqg"; */
+"sB4-u4-Dqg.placeholder" = "City";
+
+/* Class = "UIButton"; normalTitle = "Bar"; ObjectID = "sJL-zX-GwP"; */
+"sJL-zX-GwP.normalTitle" = "Bar";
+
+/* Class = "UIButton"; normalTitle = "Pay"; ObjectID = "skX-uK-uNd"; */
+"skX-uK-uNd.normalTitle" = "Pay";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "tFe-O9-pQC"; */
+"tFe-O9-pQC.placeholder" = "Description";
+
+/* Class = "UIButton"; normalTitle = "Liquid Meal"; ObjectID = "tHc-YF-P58"; */
+"tHc-YF-P58.normalTitle" = "Liquid Meal";
+
+/* Class = "UITextField"; placeholder = "Menu name"; ObjectID = "u5d-BU-10w"; */
+"u5d-BU-10w.placeholder" = "Menu name";
+
+/* Class = "UIButton"; normalTitle = "Buy food and attend"; ObjectID = "u7h-ah-yXh"; */
+"u7h-ah-yXh.normalTitle" = "Buy food and attend";
+
+/* Class = "UISearchBar"; placeholder = "Item holder"; ObjectID = "uYQ-33-zJ4"; */
+"uYQ-33-zJ4.placeholder" = "Item holder";
+
+/* Class = "UISearchBar"; uYQ-33-zJ4.scopeButtonTitles[0] = "Title"; ObjectID = "uYQ-33-zJ4"; */
+"uYQ-33-zJ4.scopeButtonTitles[0]" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "v6L-3X-MtV"; */
+"v6L-3X-MtV.normalTitle" = "Logout";
+
+/* Class = "UIButton"; normalTitle = "Resturant"; ObjectID = "vQI-6v-HDb"; */
+"vQI-6v-HDb.normalTitle" = "Resturant";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "vQq-6f-m15"; */
+"vQq-6f-m15.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Servings"; ObjectID = "w8s-h6-N6k"; */
+"w8s-h6-N6k.text" = "Servings";
+
+/* Class = "UILabel"; text = "Recipe Name"; ObjectID = "whn-PD-YA8"; */
+"whn-PD-YA8.text" = "Recipe Name";
+
+/* Class = "UISearchBar"; placeholder = "Search Paladar"; ObjectID = "wjX-Cg-kip"; */
+"wjX-Cg-kip.placeholder" = "Search Paladar";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "ymp-JU-KQf"; */
+"ymp-JU-KQf.text" = "Detail";
+
+/* Class = "UIButton"; normalTitle = "Remove"; ObjectID = "yoH-sG-EhE"; */
+"yoH-sG-EhE.normalTitle" = "Remove";
+
+/* Class = "UIBarButtonItem"; title = "+"; ObjectID = "z2L-BB-VPo"; */
+"z2L-BB-VPo.title" = "+";
+
+/* Class = "UINavigationItem"; title = "Belgian Style Beers"; ObjectID = "zd9-CU-klt"; */
+"zd9-CU-klt.title" = "Belgian Style Beers";

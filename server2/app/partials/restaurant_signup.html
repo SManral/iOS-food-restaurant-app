@@ -1,0 +1,65 @@
+<html>
+<div class="container">
+    <div class="panel">
+    <div class="pageHeader"><h1>Signup Form {{title}}</h1></div>
+    <form name="form" ng-submit="signupRes(restaurant)"  role="form" novalidate>   
+    
+    <div class="form-group">
+        <label for="rName">Restaurant Name</label><br>
+        <input id="rName" type="text" ng-model="restaurant.name" class="validate" name="rName" required />
+        <span ng-show="form.name.$invalid && !form.name.$pristine" class="help-block">Restaurant name is required</span>
+    </div>
+    <div class="form-group">
+        <label for="username">Username</label><br>
+        <input type="text" name="username" id="username" class="validate" ng-model="restaurant.username" required/>
+        <span ng-show="form.username.$invalid && !form.username.$pristine" class="help-block">Username is required.</span>
+    </div>
+    <div class="form-group">
+        <label for="phone">Phone</label><br>
+        <input type="text" name="phone" id="phone" class="validate" ng-model="restaurant.phone" ng-minlength="10" ng-maxlength="10" />
+        <span ng-show="form.phone.$error.number" || ((registration.phone.$error.minlength ||
+        registration.phone.$error.maxlength) && 
+        registration.phone.$dirty) class="help-block">Phone number is invalid.</span>
+    </div>
+    <div class="form-group">
+        <label for="email">Email</label><br>
+        <input id="email" type="email" name="email" ng-model="restaurant.email" id="email" class="validate" required />
+        <span ng-show="form.email.$error.email && !form.email.$pristine" class="help-block">Email is invalid.</span>
+    </div> <div class="form-group">
+        <label for="password">Password</label><br>
+        <input type="password" name="password" id="password" class="validate" ng-model="restaurant.password" required />
+        <p ng-show="form.password.$dirty && form.password.$error.required" class="help-block">Password is required.</p>
+    </div><br>
+    <div class="form-group">
+        <label for="street">Street Address</label><br>
+        <input type="street" name="street" id="street" class="validate" ng-model="restaurant.street" required />
+        <p ng-show="form.street.$dirty && form.street.$error.required" class="help-block">Street is required.</p>
+    </div><br>
+    <div class="form-group">
+        <label for="city">City</label><br>
+        <input type="city" name="city" id="city" class="validate" ng-model="restaurant.city" required />
+        <p ng-show="form.city.$dirty && form.city.$error.required" class="help-block">City is required.</p>
+    </div><br>
+    <div class="form-group">
+        <label for="state">State</label><br>
+        <select type="state" name="state" id="state" class="validate" ng-model="restaurant.state" ng-options="state for state in statelist" required />
+         <option value="">-- Choose State --</option>
+    </select>
+    </div><br>
+
+    <div class="submit">
+               <button type="submit" name="sub" ng-disabled="form.$invalid" class="submitButton">Signup</button>
+               <a href="#/login" class="btn btn-link">Cancel</a>
+    </div>
+</form>
+<div>
+<style>
+button:disabled {
+    background-color: #d3d3d3;
+    cursor: not-allowed;
+}
+</style>
+
+</div>
+
+</html>

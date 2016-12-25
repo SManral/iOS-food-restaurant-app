@@ -1,0 +1,104 @@
+<div class="container-fluid">
+    <div class="pageHeader "><h1 align="center">Restaurant Search Filter</h1></div>
+    <div class="row">
+    <div class="col-md-3 col-xs-12">
+        <div class="panel" style="margin-top: 60px;">
+        <div class="pageHeader"><h3 align="center">Select City and State</h3></div>
+
+        <form name="form" ng-submit="signup(restaurant)"  role="form" novalidate>   
+        
+        <div class="form-group">
+            <label for="city">City</label><br>
+            <input id="city" type="text" ng-model="searchList.city" id="city" class="validate" name="city" required />
+            <span ng-show="form.city.$invalid && !form.city.$pristine" class="help-block">City is required</span>
+        </div>
+        <div class="form-group">
+            <label for="state">State</label><br>
+            <select type="state" name="state" id="state" class="validate" ng-model="searchList.state" ng-options="state for state in statelist" required />
+             <option value="">-- Choose State --</option>
+        </select>
+        </div>
+        <div class="submit">
+                   <button type="submit" name="sub" ng-disabled="form.$invalid" ng:click="submit()" class="searchButton">Search</button>
+        </div>
+    <div>
+    </div>
+    </div>
+
+
+    <div class="col-md-12">
+        <div class="panel" style="margin-top: 10px;">
+        <div class="pageHeader">
+        <h3 align="center">Filter Results</h3></div>
+
+        <div class="form-group">
+            <label for="budget">Budget</label><br>
+            <input type="text" name="budget" id="budget" class="validate" ng-model="searchList.budget"/>
+            <span ng-show="form.budget.$invalid && !form.budget.$pristine" class="help-block">Budget is required.</span>
+        </div>
+        
+        <div class="form-group">
+            <label for="people">People</label><br>
+            <input type="number" name="people" id="people" class="validate" ng-model="searchList.people"/>
+       
+        </div>
+         
+         <div class="form-group">
+            <label for="foodName">Food Item Name</label><br>
+            <input type="text" ng:model="searchList.foodName" ng:required class="input-small">  
+        
+        </div>
+        
+        <div class="form-group">
+            <label for="cuisine">Cuisine</label><br>
+            <select ng:model="searchList.cuisine" ng-options="cuisine for cuisine in cuisines" ng:required class="input-small"></select>     
+        </div>
+
+        <div class="form-group">
+            <label for="foodType">Food Type</label><br>
+            <select ng:model="searchList.foodType" ng-options="type for type in dishTypes" ng:required class="input-small"></select>     
+        </div>
+        
+        
+        </form>
+    </div>
+    </div>
+
+
+</div>
+<div class="col-md-9 col-xs-12">
+    <div class="panel" style="margin-top: 60px; height: 661px; max-height: 621px; overflow-y: scroll;">
+            <div class="pageHeader"><h3 align="center">Search Results</h3></div>
+
+        <table class="table">
+        <tr class="header">
+            <th>Restaurant Name</th>
+            <th>Food Item Name</th>
+            <th>Food Type</th>
+            <th>Cuisine</th>
+            <th>Food Description</th>
+            <th>Serving Duration</th>
+            <th>Quantity</th>
+            <th>Price</th>
+        </tr><!-- | filter:{cost:searchList.budget} -->
+        <tr ng:repeat="item in menuItems | filter:search | orderBy : 'cost'">
+            <td><a href="" ng-click="restoInfo(item.restID)"><strong>{{item.restName}}</strong></a></td>
+            <td><strong>{{item.itemName}}</strong></td>           
+            <td><strong >{{item.subType}}</strong></td>
+            <td><strong >{{item.cuisine}}</strong></td>
+            <td><textarea>{{item.description}}</textarea></td>
+            <td><strong >{{item.duration}}</strong></td>
+            <td><strong >{{item.quantity}}</strong><br/>
+            <strong >{{item.qtyUnit}}</strong>
+            </td>
+            <td><strong>${{item.cost}}</strong></td>
+        </tr>
+    </table>
+    </div>
+</div>
+<style>
+button:disabled {
+    background-color: #d3d3d3;
+    cursor: not-allowed;
+}
+</style>

@@ -1,0 +1,54 @@
+<html>
+<head>
+<style>
+
+</style>
+ </head>
+    <h2 align="center">Restaurant Menu</h2>
+
+    <table class="table">
+        <tr class="header">
+            
+            <th>Food Item Name</th>
+            <th>Food Type</th>
+            <th>Cuisine</th>
+            <th>Food Description</th>
+            <th>Serving Duration</th>
+            <th>Quantity</th>
+            <th>Price</th>
+          
+            <th></th>
+        </tr>
+        <tr ng:repeat="item in menuItems">
+            <td><input type="text" ng:model="item.itemName"class="input-small"></td>           
+            <td><select ng:model="item.subType" ng-options="type for type in dishTypes" ng:required class="input-small"></select></td>
+            <td><select ng:model="item.cuisine" ng-options="cuisine for cuisine in cuisines" ng:required class="input-small"></select></td>
+            <td><textarea ng:model="item.description" ng:required rows="4" class="input-large"></textarea></td>
+            <td><select ng:model="item.duration" ng-options="time for time in servingDurations" ng:required class="input-small"></select></td>
+            <td><input type="number" ng:model="item.quantity"  ng:required class="input-mini" min="1" step="1">
+            <select ng:model="item.qtyUnit" ng-options="unit for unit in qtyUnits" ng:required class="input-small"></select></td>
+            <td><input type="number" ng:model="item.cost" ng:required class="input-mini"></td>
+            <td>
+                <a href ng:click="removeItem($index)" class="btn btn-danger btn-sm">X</a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <button type="button" ng:click="addItem()" ng-disabled="item.itemName = '' " >add item</button>
+            </td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+
+    <button type="Submit" ng:click="save_submit()">Save and Submit</button>
+    <a href="#/login"><button type="button" class="logout">Logout</button></a>
+
+
+
+</html>

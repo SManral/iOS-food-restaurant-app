@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Desserts</key>
+	<array>
+		<string>Apple Pie</string>
+		<string>Cheesecake</string>
+		<string>Creme Burle</string>
+		<string>Key Lime Pie</string>
+		<string>Pumpkin Pie</string>
+	</array>
+	<key>Entrees</key>
+	<array>
+		<string>Beef</string>
+		<string>Chicken</string>
+		<string>Duck</string>
+		<string>Fish</string>
+		<string>Lamb</string>
+		<string>Pizza</string>
+		<string>Steak</string>
+	</array>
+	<key>Appetizers</key>
+	<array>
+		<string>Antipasto</string>
+		<string>Blue cheese chips</string>
+		<string>Nachos</string>
+		<string>Calamari</string>
+		<string>Wings</string>
+	</array>
+	<key>Sandwiches</key>
+	<array>
+		<string>BLT</string>
+		<string>Bagels</string>
+		<string>Burgers</string>
+		<string>Gyros</string>
+		<string>Hot Dog</string>
+	</array>
+	<key>Soups</key>
+	<array>
+		<string>Black Bean Soup</string>
+		<string>Cheese Soup</string>
+		<string>Chicken Cream Soup</string>
+		<string>Chicken Noodle Soup</string>
+		<string>Chilli Soup</string>
+	</array>
+	<key>Salads</key>
+	<array>
+		<string>Chef Salad</string>
+		<string>Caeser Salad</string>
+		<string>Cobb Salad</string>
+		<string>Greek Salad</string>
+		<string>Salad with Fruit</string>
+	</array>
+	<key>Food Styles</key>
+	<array>
+		<string>Cajun</string>
+		<string>Caribbean</string>
+		<string>Chinese</string>
+		<string>Indian</string>
+		<string>Middle Eastern</string>
+		<string>Mexican</string>
+	</array>
+</dict>
+</plist>
